@@ -1,5 +1,4 @@
-I'm a React & React Native developer.  
-I do lectures in Agile Web Project at Prague University of Economics and Business.
+I'm a React & React Native developer, and I lecture on Agile Web Project at the Prague University of Economics and Business.
 
 ## What I do
 - ⚛️ Frontend development (React, React Native, TypeScript)
@@ -9,5 +8,4 @@ I do lectures in Agile Web Project at Prague University of Economics and Busines
 
 ## Technologies I use
 - React, React Native, JavaScript, TypeScript
-- Node.js, Next.js
-- Nx
+- Node.js, Next.js, Nx
