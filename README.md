@@ -1,5 +1,5 @@
-I'm a React & React Native developer at [@cngroupdk](https://github.com/cngroupdk)  
-Lecturer in Agile Web Project at [Prague University of Economics and Business](https://www.vse.cz/)
+I'm a React & React Native developer.  
+I do lectures in Agile Web Project at [Prague University of Economics and Business](https://www.vse.cz/)
 
 ## What I do
 - ⚛️ Frontend development (React, React Native, TypeScript)
