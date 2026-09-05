@@ -7,12 +7,12 @@ I'm a React & React Native developer, and I lecture in Agile Web Application Dev
 
 ## Projects & Contributions
 
-- 🧗 [Slaňák](https://www.slanak.cz) – a mobile-first app for rock climbers to log and share their ascents
 - 🔧 [Node InSim](https://github.com/simbroadcasts/node-insim) – a Node.js library for working with the InSim API in [Live for Speed](https://www.lfs.net)
 - ⚛️ [React Node InSim](https://github.com/simbroadcasts/react-node-insim) – a custom React renderer for displaying in-game buttons for [Live for Speed](https://www.lfs.net)
 - 🔠 [Unicode to LFS](https://github.com/simbroadcasts/unicode-to-lfs) and [Parse LFS Message](https://github.com/simbroadcasts/parse-lfs-message) – utilities for converting between Unicode strings and Live for Speed character encoding
 - ☀️ [Solar System to Scale](https://mkapal.github.io/solar-system/) – an interactive visualisation of the scale of the Solar system
 - 📺 [Sim Broadcasts](https://simbroadcasts.tv/) – involved in the development of Sim Broadcaster software
+- 🧗 Slaňák – a mobile-first app for rock climbers to log and share their ascents
 
 ## Technologies I use
 - React, React Native, JavaScript, TypeScript
